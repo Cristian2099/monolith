@@ -1,4 +1,4 @@
-package com.idk.monolith;
+package com.idk.monolith.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
